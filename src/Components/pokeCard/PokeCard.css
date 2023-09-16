@@ -1,0 +1,19 @@
+.pokeCard-container{
+    background-color: rgb(203, 229, 245);
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;  
+}
+p{
+    color: rgb(109, 59, 24);
+    font-weight: 800;
+}
+
+img{
+  
+    height: 150px;
+    width: 150px;
+}
